@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kaung (https://kaung.dev/en/)
-- 👀 I’m interested in backend development
+- 👀 I’m interested in backend development (and front-end development if required)
 - 🌱 I’m currently learning Kotlin
-- I have worked with Python, Java, Bash, Ruby, JavaScript, HTML/CSS
+- I have worked with Python, Java, Bash, Ruby, JavaScript, HTML/CSS, GoLang
 
 <!---
 kglns/kglns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
