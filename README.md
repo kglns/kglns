@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kaung (https://kaung.dev/en/)
+- 👋 Hi, I’m kaung (https://kaung.dev)
 - 👀 I’m interested in backend development (and front-end development if required)
 - 🌱 I’m currently learning Kotlin
 - I have worked with Python, Java, Bash, Ruby, JavaScript, HTML/CSS, GoLang
